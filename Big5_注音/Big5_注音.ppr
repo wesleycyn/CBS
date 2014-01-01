@@ -1,0 +1,210 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=D:\Win32Forth61400\apps\Big5_ª`­µ
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+Big5_ª`­µ
+	+Big5_ª`­µ
+		£t.f
+		£u.f
+		£v.f
+		£w.f
+		£x.f
+		£y.f
+		£z.f
+		£{.f
+		£|.f
+		£}.f
+		£~.f
+		£¡.f
+		£¢.f
+		££.f
+		£¤.f
+		£¥.f
+		£¦.f
+		£§.f
+		£¨.f
+		£©.f
+		£ª.f
+		£«.f
+		£¬.f
+		£­.f
+		£®.f
+		£¯.f
+		£°.f
+		£±.f
+		£².f
+		£³.f
+		£´.f
+		£µ.f
+		£¶.f
+		£·.f
+		£¸.f
+		£¹.f
+		£º.f
+		¤X.f
+[Open project files]
+0=£t.f
+1=£v.f
+2=£w.f
+3=£x.f
+4=£y.f
+5=£z.f
+6=£{.f
+7=£|.f
+8=£}.f
+9=£~.f
+10=£¡.f
+11=£¢.f
+12=££.f
+13=£¤.f
+14=£¥.f
+15=£¦.f
+16=£§.f
+17=£¨.f
+18=£©.f
+19=£ª.f
+20=£«.f
+21=£¬.f
+22=£­.f
+23=£®.f
+24=£¯.f
+25=£°.f
+26=£±.f
+27=£².f
+28=£³.f
+29=£´.f
+30=£µ.f
+31=£¶.f
+32=£·.f
+33=£¸.f
+34=£¹.f
+35=£º.f
+36=¤X.f
+37=£u.f
+[Selected Project Files]
+Main=
+Selected=£t.f
+[£t.f]
+TopLine=664
+Caret=3,664
+[£v.f]
+TopLine=613
+Caret=10,652
+[£w.f]
+TopLine=454
+Caret=12,497
+[£x.f]
+TopLine=724
+Caret=12,759
+[£y.f]
+TopLine=697
+Caret=4,748
+[£z.f]
+TopLine=1
+Caret=3,2
+[£{.f]
+TopLine=1101
+Caret=21,1138
+[£|.f]
+TopLine=649
+Caret=4,675
+[£}.f]
+TopLine=443
+Caret=12,488
+[£~.f]
+TopLine=851
+Caret=10,889
+[£¡.f]
+TopLine=1167
+Caret=11,1199
+[£¢.f]
+TopLine=753
+Caret=12,790
+[££.f]
+TopLine=977
+Caret=11,1018
+[£¤.f]
+TopLine=897
+Caret=13,930
+[£¥.f]
+TopLine=723
+Caret=13,753
+[£¦.f]
+TopLine=629
+Caret=12,666
+[£§.f]
+TopLine=259
+Caret=5,291
+[£¨.f]
+TopLine=395
+Caret=10,438
+[£©.f]
+TopLine=339
+Caret=12,381
+[£ª.f]
+TopLine=146
+Caret=10,146
+[£«.f]
+TopLine=1
+Caret=8,2
+[£¬.f]
+TopLine=1
+Caret=8,2
+[£­.f]
+TopLine=51
+Caret=10,80
+[£®.f]
+TopLine=1
+Caret=17,2
+[£¯.f]
+TopLine=1
+Caret=10,43
+[£°.f]
+TopLine=1
+Caret=17,2
+[£±.f]
+TopLine=15
+Caret=10,48
+[£².f]
+TopLine=1
+Caret=10,25
+[£³.f]
+TopLine=12
+Caret=10,48
+[£´.f]
+TopLine=1
+Caret=9,2
+[£µ.f]
+TopLine=1
+Caret=10,3
+[£¶.f]
+TopLine=1
+Caret=10,2
+[£·.f]
+TopLine=1
+Caret=9,2
+[£¸.f]
+TopLine=1
+Caret=10,1
+[£¹.f]
+TopLine=451
+Caret=5,488
+[£º.f]
+TopLine=305
+Caret=12,305
+[¤X.f]
+TopLine=1
+Caret=9,9
+[£u.f]
+TopLine=534
+Caret=10,575

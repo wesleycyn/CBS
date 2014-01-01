@@ -1,0 +1,16 @@
+of e- endof
+of e= endof
+of ei= endof
+of ei[ endof
+of ei] endof
+of en- endof
+of eng' endof
+of eng= endof
+of eng[ endof
+of eng] endof
+of en] endof
+of er= endof
+of er[ endof
+of er] endof
+of e[ endof
+of e] endof
